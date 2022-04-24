@@ -1,0 +1,33 @@
+#post-new-art {
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+#post-new-art .my-3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.submit-btn {
+  text-align: center;
+}
+
+.submit-btn button {
+  margin-top:45px;
+}
+
+.d-none {
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+
+
+#not-login {
+  color : rgb(2, 12, 39);
+  text-decoration: underline;
+  font-weight: bold;
+}
